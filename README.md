@@ -14,8 +14,9 @@ Hello world! 👋
 - <img src="https://user-images.githubusercontent.com/4712430/87982839-04f40a80-ca9d-11ea-8cd3-688d9a9dbfd4.png" height="16px" /> Slack: [@lyftoss / danielhochman](https://join.slack.com/t/lyftoss/shared_invite/zt-casz6lz4-G7gOx1OhHfeMsZKFe1emSA)
 - 👔&nbsp;LinkedIn: [@danielhochman](https://linkedin.com/in/danielhochman)
 
-### Talks 💬
-- 🎞️ [Geospatial Indexing: The 10 Million QPS Redis Architecture Powering Lyft](https://www.youtube.com/watch?v=cSFWlF96Sds) (RedisConf '17)
-- 🎞️ [Redis at Lyft: 2,000 Instances and Beyond](https://www.youtube.com/watch?v=U4WspAKekqM) (RedisConf '18)
-- 🎞️ [Instrumenting and Scaling Cloud-Native Databases with Envoy](https://www.youtube.com/watch?v=1e2_Ljxe0Sg) (KubeCon '18)
-- 🎞️ [Lyft: From Monolith to Service Mesh](https://www.youtube.com/watch?v=fGvVqp8GQBw) (VelocityConf '19)
+### Talks & Writing 💬 📝
+- 📽️ [Geospatial Indexing: The 10 Million QPS Redis Architecture Powering Lyft](https://www.youtube.com/watch?v=cSFWlF96Sds) (RedisConf '17)
+- 📽️ [Redis at Lyft: 2,000 Instances and Beyond](https://www.youtube.com/watch?v=U4WspAKekqM) (RedisConf '18)
+- 📽️ [Instrumenting and Scaling Cloud-Native Databases with Envoy](https://www.youtube.com/watch?v=1e2_Ljxe0Sg) (KubeCon '18)
+- 📒 [Envoy Service Mesh: Mitigating Cascading Failure at Lyft](https://www.infoq.com/articles/envoy-service-mesh-cascading-failure/) (InfoQ '18)
+- 📽️ [Lyft: From Monolith to Service Mesh](https://www.youtube.com/watch?v=fGvVqp8GQBw) (VelocityConf '19)
