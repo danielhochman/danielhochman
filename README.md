@@ -18,5 +18,4 @@ Hello world! 👋
 - 🎞️ [Geospatial Indexing: The 10 Million QPS Redis Architecture Powering Lyft](https://www.youtube.com/watch?v=cSFWlF96Sds) (RedisConf '17)
 - 🎞️ [Redis at Lyft: 2,000 Instances and Beyond](https://www.youtube.com/watch?v=U4WspAKekqM) (RedisConf '18)
 - 🎞️ [Instrumenting and Scaling Cloud-Native Databases with Envoy](https://www.youtube.com/watch?v=1e2_Ljxe0Sg) (KubeCon '18)
-- 🎞️ [Lyft: From Monolith to Service Mesh
-](https://www.youtube.com/watch?v=fGvVqp8GQBw) (VelocityConf '19)
+- 🎞️ [Lyft: From Monolith to Service Mesh](https://www.youtube.com/watch?v=fGvVqp8GQBw) (VelocityConf '19)
