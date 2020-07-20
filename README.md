@@ -11,6 +11,7 @@ Hello world! 👋
 ### Get in Touch 📫
 - <img src="https://user-images.githubusercontent.com/4712430/87979407-a11b1300-ca97-11ea-9c03-c016e45501a4.png" width="16px" />&nbsp;Clutch: [github.com/lyft/clutch](https://github.com/lyft/clutch)
 - 🐦&nbsp;Twitter: [@danielhochman](https://twitter.com/danielhochman)
+- <img src="https://user-images.githubusercontent.com/4712430/87982839-04f40a80-ca9d-11ea-8cd3-688d9a9dbfd4.png" height="16px" /> Slack: [@lyftoss / danielhochman](https://join.slack.com/t/lyftoss/shared_invite/zt-casz6lz4-G7gOx1OhHfeMsZKFe1emSA)
 - 👔&nbsp;LinkedIn: [@danielhochman](https://linkedin.com/in/danielhochman)
 
 ### Talks 💬
