@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/1004789/86156525-f1b3d780-baba-11ea-88a3-51a7391cd310.png" />
-<img src="https://user-images.githubusercontent.com/4712430/87979981-839a7900-ca98-11ea-9d35-07c01b4cec14.png" width="100px">
+<img src="https://user-images.githubusercontent.com/4712430/87979981-839a7900-ca98-11ea-9d35-07c01b4cec14.png" width="100px"> <img src="https://user-images.githubusercontent.com/1004789/86156525-f1b3d780-baba-11ea-88a3-51a7391cd310.png" height="100px" />
 
 Hello world! 👋
 
