@@ -1,13 +1,11 @@
 <img src="https://user-images.githubusercontent.com/1004789/86156525-f1b3d780-baba-11ea-88a3-51a7391cd310.png" />
-<br>
 <img src="https://user-images.githubusercontent.com/4712430/87979981-839a7900-ca98-11ea-9d35-07c01b4cec14.png" width="100px">
 
 Hello world! 👋
 
 ### About Me 😄
 
-- Software engineer at <img src="https://user-images.githubusercontent.com/4712430/87979774-31595800-ca98-11ea-9575-6a0cc7f46fcc.png
-" width="16px" /> **Lyft** since 2014.
+- Software engineer at <img src="https://user-images.githubusercontent.com/4712430/87979774-31595800-ca98-11ea-9575-6a0cc7f46fcc.png" width="16px" /> **Lyft** since 2014.
 - Have worked on geospatial indexing, storage, networking ([Envoy](https://github.com/envoyproxy/envoy)), and now infrastructure tooling.
 - Maintainer on [<img src="https://user-images.githubusercontent.com/4712430/87979407-a11b1300-ca97-11ea-9c03-c016e45501a4.png" width="16px" /> **Clutch**](https://github.com/lyft/clutch), the open source platform for instrastructure management.
 
