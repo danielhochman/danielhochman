@@ -20,3 +20,4 @@ Hello world! 👋
 - 📽️ [Instrumenting and Scaling Cloud-Native Databases with Envoy](https://www.youtube.com/watch?v=1e2_Ljxe0Sg) (KubeCon '18)
 - 📒 [Envoy Service Mesh: Mitigating Cascading Failure at Lyft](https://www.infoq.com/articles/envoy-service-mesh-cascading-failure/) (InfoQ '18)
 - 📽️ [Lyft: From Monolith to Service Mesh](https://www.youtube.com/watch?v=fGvVqp8GQBw) (VelocityConf '19)
+- 📒 [Announcing Clutch, the Open-source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713) (Lyft Engineering Blog '20)
