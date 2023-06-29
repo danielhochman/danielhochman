@@ -1,16 +1,11 @@
-<img src="https://user-images.githubusercontent.com/4712430/87979981-839a7900-ca98-11ea-9d35-07c01b4cec14.png" width="100px"> <img src="https://user-images.githubusercontent.com/1004789/86156525-f1b3d780-baba-11ea-88a3-51a7391cd310.png" height="100px" />
+<img src="https://github.com/danielhochman/danielhochman/assets/4712430/256b21d0-0438-492f-acf5-055ffb50e71b" height="120px" />
 
-Hello world! 👋
-
-### About Me 😄
-
-- Software engineer at [<img src="https://user-images.githubusercontent.com/4712430/87979774-31595800-ca98-11ea-9575-6a0cc7f46fcc.png" width="16px" /> **Lyft**](https://lyft.com) since 2014.
-- Have worked on geospatial indexing, storage, networking ([Envoy](https://github.com/envoyproxy/envoy)), and now infrastructure tooling.
-- Maintainer on [<img src="https://user-images.githubusercontent.com/4712430/87979407-a11b1300-ca97-11ea-9c03-c016e45501a4.png" width="16px" /> **Clutch**](https://github.com/lyft/clutch), the open source platform for instrastructure management.
+### About Me 👋
+- Engineer at <img src="https://github.com/danielhochman/danielhochman/assets/4712430/4dd4f277-b7aa-4879-b2b2-3d317d818851" width="16px" /> [**Filmhub**](https://filmhub.com) since 2023.
+- Engineer at [<img src="https://user-images.githubusercontent.com/4712430/87979774-31595800-ca98-11ea-9575-6a0cc7f46fcc.png" width="16px" /> Lyft](https://lyft.com) from 2014-2023.
+- Now doing full stack development with Next.js and Typescript. Have worked previously on geospatial indexing, databases, Envoy Proxy, infrastructure tooling.
 
 ### Get in Touch 📫
-- <img src="https://user-images.githubusercontent.com/4712430/87979407-a11b1300-ca97-11ea-9c03-c016e45501a4.png" width="16px" />&nbsp;Clutch: [github.com/lyft/clutch](https://github.com/lyft/clutch)
-- <img src="https://user-images.githubusercontent.com/4712430/87982839-04f40a80-ca9d-11ea-8cd3-688d9a9dbfd4.png" height="16px" /> Slack: [@lyftoss / danielhochman](https://join.slack.com/t/lyftoss/shared_invite/zt-casz6lz4-G7gOx1OhHfeMsZKFe1emSA)
 - 👔&nbsp;LinkedIn: [@danielhochman](https://linkedin.com/in/danielhochman)
 
 ### Talks & Writing 💬 📝
