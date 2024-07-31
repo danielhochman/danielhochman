@@ -1,9 +1,9 @@
 <img src="https://github.com/danielhochman/danielhochman/assets/4712430/ca1a577b-5dcc-4a96-bae5-cc94f6b44485" height="120px" />
 
 ### About Me 👋
-- Engineer at <img src="https://github.com/danielhochman/danielhochman/assets/4712430/7e0c424a-9452-4cab-9c52-fa044f5b8c62" width="16px" /> [**Anthropic**](https://www.anthropic.com/) since 2024.
-- Engineer at <img src="https://github.com/danielhochman/danielhochman/assets/4712430/4dd4f277-b7aa-4879-b2b2-3d317d818851" width="16px" /> [**Filmhub**](https://filmhub.com) in 2023.
-- Engineer at [<img src="https://user-images.githubusercontent.com/4712430/87979774-31595800-ca98-11ea-9575-6a0cc7f46fcc.png" width="16px" /> Lyft](https://lyft.com) from 2014-2023.
+- Engineer at [<img src="https://github.com/danielhochman/danielhochman/assets/4712430/7e0c424a-9452-4cab-9c52-fa044f5b8c62" width="16px" />](https://www.anthropic.com/) [**Anthropic**](https://www.anthropic.com/) from 2024-present.
+- Engineer at [<img src="https://github.com/danielhochman/danielhochman/assets/4712430/4dd4f277-b7aa-4879-b2b2-3d317d818851" width="16px" />](https://filmhub.com) [Filmhub](https://filmhub.com) in 2023.
+- Engineer at [<img src="https://user-images.githubusercontent.com/4712430/87979774-31595800-ca98-11ea-9575-6a0cc7f46fcc.png" width="16px" />](https://lyft.com) [Lyft](https://lyft.com) from 2014-2023.
 
 ### Get in Touch 📫
 - 👔&nbsp;LinkedIn: [@danielhochman](https://linkedin.com/in/danielhochman)
